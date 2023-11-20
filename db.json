@@ -1,0 +1,279 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "rut": "12345678-9",
+      "nombre": "Sonia",
+      "apellido": "Arriagada",
+      "correoElectronico": "so.arriagada@profesor.duocuc.cl",
+      "password": "sonia123",
+      "rol": "Profesor",
+      "isactive": true,
+      "asignaturas": [
+        {
+          "nombre": "Programacion de algoritmos",
+          "año": 2023,
+          "horasSemanales": 16,
+          "semestre": 1,
+          "seccion": "018V"
+        },
+        {
+          "nombre": "Desarrollo de software de escritorio",
+          "año": 2023,
+          "horasSemanales": 14,
+          "semestre": 2,
+          "seccion": "022V"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rut": "98765432-1",
+      "nombre": "María",
+      "apellido": "Brito",
+      "correoElectronico": "mar.brito@duocuc.cl",
+      "password": "maria123",
+      "rol": "Alumno",
+      "isactive": true
+    },
+    {
+      "id": 3,
+      "rut": "18061395-1",
+      "nombre": "Nicolás",
+      "apellido": "Rebolledo",
+      "correoElectronico": "nico.rebolledo@duocuc.cl",
+      "password": "nicolas123",
+      "rol": "Alumno",
+      "isactive": true
+    },
+    {
+      "id": 4,
+      "rut": "98745632-1",
+      "nombre": "Viviana",
+      "apellido": "Poblete",
+      "correoElectronico": "vi.poblete@profesor.duocuc.cl",
+      "password": "viviana123",
+      "rol": "Profesor",
+      "isactive": true,
+      "asignaturas": [
+        {
+          "nombre": "Programacion de aplicaciones moviles",
+          "año": 2023,
+          "horasSemanales": 12,
+          "semestre": 1,
+          "seccion": "015V"
+        },
+        {
+          "nombre": "Programacion de aplicaciones moviles",
+          "año": 2023,
+          "horasSemanales": 12,
+          "semestre": 2,
+          "seccion": "024V"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "rut": "12365498-7",
+      "nombre": "juanito",
+      "apellido": "mella",
+      "correoElectronico": "juanito.mella@duocuc.cl",
+      "password": "juanito123",
+      "rol": "Alumno",
+      "isactive": true
+    },
+    {
+      "id": 6,
+      "rut": "12321312-3",
+      "nombre": "pablo",
+      "apellido": "vargas",
+      "correoElectronico": "pablo.vargas@duocuc.cl",
+      "password": "pablo123",
+      "rol": "Alumno",
+      "isactive": true
+    },
+    {
+      "id": 7,
+      "rut": "18987612-4",
+      "nombre": "Mauricio",
+      "apellido": "Machuca",
+      "correoElectronico": "mau.machuca@profesor.duocuc.cl",
+      "password": "mauricio123",
+      "rol": "Profesor",
+      "isactive": true,
+      "asignaturas": [
+        {
+          "nombre": "Consulta de base de datos",
+          "año": 2023,
+          "horasSemanales": 15,
+          "semestre": 2,
+          "seccion": "007V"
+        },
+        {
+          "nombre": "Modelamiento de base de datos",
+          "año": 2023,
+          "horasSemanales": 10,
+          "semestre": 1,
+          "seccion": "005V"
+        }
+      ]
+    },
+    {
+      "rut": "18358151-1",
+      "nombre": "Claudia",
+      "apellido": "Inostroza",
+      "correoElectronico": "claudia.santibanez@profesor.duoc.cl",
+      "password": "claudia123",
+      "rol": "Profesor",
+      "isactive": true,
+      "asignaturas": [
+        {
+          "nombre": "matematicas",
+          "año": 2023,
+          "semestre": 4,
+          "horasSemanales": 12,
+          "seccion": "12V"
+        },
+        {
+          "nombre": "Armado de rubick",
+          "año": 2023,
+          "semestre": 7,
+          "horasSemanales": 13,
+          "seccion": "25D"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "rut": "12312314-2",
+      "nombre": "yuyin",
+      "apellido": "mena",
+      "correoElectronico": "yuyin.mena@profesor.duoc.cl",
+      "password": "yuyin123",
+      "rol": "Profesor",
+      "isactive": true,
+      "asignaturas": [
+        {
+          "nombre": "ingles 2",
+          "año": "2023",
+          "semestre": 2,
+          "horasSemanales": 13,
+          "seccion": "015V"
+        },
+        {
+          "nombre": "lenguaje",
+          "año": "2023",
+          "semestre": 1,
+          "horasSemanales": 12,
+          "seccion": "12V"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "rut": "24232526-4",
+      "nombre": "alberto",
+      "apellido": "plaza",
+      "correoElectronico": "alberto.plaza@duocuc.cl",
+      "password": "alberto123",
+      "rol": "Alumno",
+      "isactive": true,
+      "asignaturas": [],
+      "id": 10
+    },
+    {
+      "rut": "17283503-1",
+      "nombre": "Nicole",
+      "apellido": "Rebolledo",
+      "correoElectronico": "nicole.rebolledo@duocuc.cl",
+      "password": "nicole123",
+      "rol": "Alumno",
+      "isactive": true,
+      "asignaturas": [],
+      "id": 11
+    },
+    {
+      "rut": "18061396-1",
+      "nombre": "Sonia",
+      "apellido": "Guajardo",
+      "correoElectronico": "sonia.guajardo@duocuc.cl",
+      "password": "sonia123",
+      "rol": "Alumno",
+      "isactive": true,
+      "asignaturas": [],
+      "id": 12
+    },
+    {
+      "rut": "18575599-2",
+      "nombre": "bejamin",
+      "apellido": "gallardo",
+      "correoElectronico": "benjamin.gallardo@profesor.duoc.cl",
+      "password": "benjamin123",
+      "rol": "Profesor",
+      "isactive": true,
+      "asignaturas": [
+        {
+          "nombre": "etica del trabajo",
+          "año": 2023,
+          "semestre": "2",
+          "horasSemanales": 6,
+          "seccion": "012V"
+        },
+        {
+          "nombre": "principios de fe cristiana",
+          "año": 2023,
+          "semestre": "2",
+          "horasSemanales": 6,
+          "seccion": "256V"
+        }
+      ],
+      "id": 13
+    }
+  ],
+  "asistencias": [
+    {
+      "id": 1,
+      "asignatura": "Programacion de aplicaciones moviles",
+      "seccion": "015V",
+      "rut": "98745632-1",
+      "nombre": "Viviana",
+      "apellido": "Poblete",
+      "palabra": "Programacion de aplicaciones moviles-015V 13/11/2023 19:17",
+      "fecha": "13/11/2023 19:17",
+      "alumnos": []
+    },
+    {
+      "asignatura": "Programacion de aplicaciones moviles",
+      "seccion": "024V",
+      "rut": "98745632-1",
+      "nombre": "Viviana",
+      "apellido": "Poblete",
+      "palabra": "Programacion de aplicaciones moviles-024V-16/11/2023 16:07",
+      "fecha": "16/11/2023 16:07",
+      "alumnos": [
+        {
+          "rut": "18061395-1",
+          "nombre": "nicolas",
+          "apellido": "rebolledo"
+        },
+        {
+          "rut": "18061395-1",
+          "nombre": "juancho",
+          "apellido": "iasjd"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "asignatura": "Programacion de aplicaciones moviles",
+      "seccion": "024V",
+      "rut": "98745632-1",
+      "nombre": "Viviana",
+      "apellido": "Poblete",
+      "palabra": "Programacion de aplicaciones moviles-024V-18/11/2023 23:47",
+      "fecha": "18/11/2023 23:47",
+      "alumnos": [],
+      "id": 3
+    }
+  ]
+}
